@@ -1,0 +1,15 @@
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/bin/Debug/net6.0/Learning2
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/bin/Debug/net6.0/Learning2.deps.json
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/bin/Debug/net6.0/Learning2.runtimeconfig.json
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/bin/Debug/net6.0/Learning2.dll
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/bin/Debug/net6.0/Learning2.pdb
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/Learning2.csproj.AssemblyReference.cache
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/Learning2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/Learning2.AssemblyInfoInputs.cache
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/Learning2.AssemblyInfo.cs
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/Learning2.csproj.CoreCompileInputs.cache
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/Learning2.dll
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/refint/Learning2.dll
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/Learning2.pdb
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/Learning2.genruntimeconfig.cache
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning2/Learning2/obj/Debug/net6.0/ref/Learning2.dll
