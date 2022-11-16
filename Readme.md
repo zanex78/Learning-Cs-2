@@ -3,6 +3,6 @@ This is the second repository of me learning the basics of C#. Im currently lear
 This series of learning C# will have 7 repositories since there are only 7 Episodes.
 In every new repository of mine there will be the youtube link of the current used repository.
 
-Tutorial: https://www.youtube.com/watch?v=u_Qv5IrMUqg&t=681s
+Tutorial: https://www.youtube.com/watch?v=9ozOSKCiO0I
 
 Idea used: Jetbrains Rider 2022.2.3
